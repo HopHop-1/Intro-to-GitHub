@@ -21,3 +21,4 @@ else:
     remarks = "Failed"
 
 print("Remarks:", remarks)
+print("Updated using Git locally!")
